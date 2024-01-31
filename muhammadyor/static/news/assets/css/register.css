@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #333333;
+}
+
+.container {
+    /*background: #428bca;*/
+    position: relative;
+    padding: 0px;
+    /*background: #444444;*/
+    border-radius: 15px;
+    color: white;
+
+
+    /*box-shadow: 0 15px 10px 20px rgba(0, 0, 0, 0.4);*/
+}
+input {
+    background: #46555f;
+    border-radius: 5px;
+    border: none;
+}
+
+button {
+    border-radius: 10px;
+    padding: 5px 15px;
+    border: none;
+    color: white;
+    letter-spacing: 1px;
+    background: #b70202;
+    box-shadow: 0 2px 1px 3px rgba(44, 43, 43, 0.51);
+}
+
+h1{
+    color: white;
+    font-family: Bahnschrift;
+}
